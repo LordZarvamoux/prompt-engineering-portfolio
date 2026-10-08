@@ -18,7 +18,9 @@ You justify both choices in `methodology.md`.
 ---
 ## Overview
 **Purpose:** This prompt produces an output from the LLM that focuses on the most likely demographic of people (in terms of age, location, daily life, and more) is most likely to purchase an idea that the prompter has for a product.
+
 **Structure:** C-A-R-E (Context, Action, Result, Example)
+
 **Technique:** Zero-shot
 ---
 ## The Prompt
