@@ -26,18 +26,24 @@ You justify both choices in `methodology.md`.
 
 ---
 ## The Prompt
+
 Organize your prompt into labeled parts, in the order that makes sense for your
 task. Each label is one part of your structure. Somewhere in here, state the core
 task or objective clearly, since that is the part the AI most needs to get right.
 If your technique is few-shot, include your example(s) here; if it is chain-of-
 thought, include the instruction to reason step by step.
+
 **Role:**
 [The content for this part.]
+
 **Task:**
 [The content for this part.]
+
 **Format:**
 [The content for this part.]
+
 [Add or remove parts so the structure matches your design.]
+
 ---
 ## Context and Inputs
 List the information the user has to supply, written as placeholders:
