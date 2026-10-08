@@ -1,4 +1,4 @@
-# [Prompt Name] Template
+# ["Market Analysis | Demographics"] Template
 ## Instructions for Use (delete this section when you build your actual prompt)
 Your prompt must include:
 - A short description of what it does
