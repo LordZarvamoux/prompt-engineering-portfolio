@@ -17,7 +17,7 @@ with no examples).
 You justify both choices in `methodology.md`.
 ---
 ## Overview
-**Purpose:** [A sentence or two on what this prompt produces.]
+**Purpose:** This prompt produces an output from the LLM that focuses on the most likely demographic of people (in terms of age, location, daily life, and more) is most likely to purchase an idea that the prompter has for a product.
 **Structure:** [Name your framework, your modified framework, or "custom
 structure," then list the parts it breaks into, for example: Context, Task,
 Constraints, Format.]
