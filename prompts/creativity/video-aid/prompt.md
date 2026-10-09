@@ -28,7 +28,6 @@ Take my summary of a story concept and research clever editing and storytelling 
 
 ---
 ## Context and Inputs
-List the information the user has to supply, written as placeholders:
 - **[STORY SUMMARY]:** A summary of what your story concept/video idea is about. This is meant to provide the LLM context for what the story is about, and how to use that story to find the right editing techniques based upon the contents of that story.
 ---
 ## Output Requirements
