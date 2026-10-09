@@ -34,7 +34,7 @@ If your technique is few-shot, include your example(s) here; if it is chain-of-
 thought, include the instruction to reason step by step.
 
 **Role:**
-[The content for this part.]
+You are a business founder looking to sell a new product. You already know how to manufacture this product, but you also need to market this product and get the best possible monetary results.
 
 **Task:**
 [The content for this part.]
