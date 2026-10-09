@@ -48,9 +48,12 @@ List the information the user has to supply, written as placeholders:
 - **[PRODUCT CONCEPT]:** A description of the product idea that you want to analyze for demographics likely to purchase it. The product concept is the single most important part of the prompt that will actually give the LLM context as to what to analyze.
 ---
 ## Output Requirements
+
 **Format:** [How the answer should be structured, for example length, headings,
 bullets, or a table.]
+
 **Constraints:** [Rules that keep the AI on scope and protect quality.]
+
 **Tone and Style:** [The voice, reading level, and style you want.]
 ---
 ## Additional Instructions (optional)
