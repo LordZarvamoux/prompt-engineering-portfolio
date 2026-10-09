@@ -45,9 +45,7 @@ List each demographic in a table with their explanations to the right of the dem
 ---
 ## Context and Inputs
 List the information the user has to supply, written as placeholders:
-- **[PLACEHOLDER_1]:** [What goes here and why it matters]
-- **[PLACEHOLDER_2]:** [What goes here and why it matters]
-- **[PLACEHOLDER_3]:** [What goes here and why it matters]
+- **[PRODUCT CONCEPT]:** The product concept is the single most important part of the prompt that will actually give the LLM context as to what to analyze.
 ---
 ## Output Requirements
 **Format:** [How the answer should be structured, for example length, headings,
