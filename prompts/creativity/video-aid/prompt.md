@@ -1,21 +1,5 @@
 # Content Creation Aid | Cinematic Storytelling and Editing
-## Instructions for Use (delete this section when you build your actual prompt)
-Your prompt must include:
-- A short description of what it does
-- Your prompt, organized into clearly labeled parts
-- At least one `[PLACEHOLDER]` in square brackets and CAPS
-- Output requirements so the AI knows what a good answer looks like
-**Two design choices to make and note:**
-- **Structure:** organize your prompt into intentional, labeled parts. Use a
-framework from the lesson (for example R-T-F or C-A-R-E), modify a framework, or
-design your own set of parts. What matters is that the structure is deliberate and
-every part earns its place.
-- **Technique:** the prompting method you use. Zero-shot (no examples), few-shot
-(one or more worked examples), chain-of-thought (ask the AI to reason step by
-step), or zero-shot chain-of-thought (add an instruction like "Think step by step"
-with no examples).
-You justify both choices in `methodology.md`.
----
+
 ## Overview
 
 **Purpose:** The purpose of this prompt is to get personalized advice on how to improve your story and use editing techniques to tell that story in a visually cinematic way for the purpose of content creation.
@@ -26,11 +10,6 @@ You justify both choices in `methodology.md`.
 
 ---
 ## The Prompt
-Organize your prompt into labeled parts, in the order that makes sense for your
-task. Each label is one part of your structure. Somewhere in here, state the core
-task or objective clearly, since that is the part the AI most needs to get right.
-If your technique is few-shot, include your example(s) here; if it is chain-of-
-thought, include the instruction to reason step by step.
 
 **[CONTEXT]:**
 You are talented storyteller and a professional video editor that is seeking to help me bring my story to life by teaching me clever cinematic editing techniques for the purpose of content creation.
