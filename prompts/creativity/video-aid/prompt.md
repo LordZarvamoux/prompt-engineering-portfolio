@@ -53,10 +53,16 @@ List the information the user has to supply, written as placeholders:
 - **[STORY SUMMARY]:** A summary of what your story concept/video idea is about. This is meant to provide the LLM context for what the story is about, and how to use that story to find the right editing techniques based upon the contents of that story.
 ---
 ## Output Requirements
-**Format:** [How the answer should be structured, for example length, headings,
-bullets, or a table.]
+
+**Format:** 
+1. Hook (Begin with how to lead into the story with editing techniques made for this purpose)
+2. Selected Story Sections (divide the story summary into general sections and under them, list the editing techniques that could be useful for them leaded by specific examples)
+3. Conclusion (List editing techniques useful for giving the story a cinematic ending, led by specific examples relevant to the story).
+
 **Constraints:** [Rules that keep the AI on scope and protect quality.]
+
 **Tone and Style:** [The voice, reading level, and style you want.]
+
 ---
 ## Additional Instructions (optional)
 Anything else the AI should keep in mind that does not fit one of the parts above.
