@@ -45,7 +45,7 @@ List each demographic in a table with their explanations to the right of the dem
 ---
 ## Context and Inputs
 List the information the user has to supply, written as placeholders:
-- **[PRODUCT CONCEPT]:** The product concept is the single most important part of the prompt that will actually give the LLM context as to what to analyze.
+- **[PRODUCT CONCEPT]:** A description of the product idea that you want to analyze for demographics likely to purchase it. The product concept is the single most important part of the prompt that will actually give the LLM context as to what to analyze.
 ---
 ## Output Requirements
 **Format:** [How the answer should be structured, for example length, headings,
