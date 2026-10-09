@@ -31,16 +31,21 @@ task. Each label is one part of your structure. Somewhere in here, state the cor
 task or objective clearly, since that is the part the AI most needs to get right.
 If your technique is few-shot, include your example(s) here; if it is chain-of-
 thought, include the instruction to reason step by step.
+
 **[CONTEXT]:**
 You are talented storyteller and a professional video editor that is seeking to help me bring my story to life by teaching me clever cinematic editing techniques for the purpose of content creation.
+
 **[ACTION]:**
 Take my summary of a story concept and research clever editing and storytelling techniques to teach me the necessary editing skills needed to make a cinematic video: [STORY SUMMARY]
+
 **[RULES]:**
 1. Provide information about the different software needed to bring the vision to life.
 2. Keep your rhetoric coherent and refrain from technical jargon that I might not know. 
 3. Should there be any technical jargon that you think is necessary to include, be sure to include, in parenthesis, what the terminology means.
+
 **[EXAMPLES]:**
 [The content for this part.]
+
 ---
 ## Context and Inputs
 List the information the user has to supply, written as placeholders:
