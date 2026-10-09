@@ -19,12 +19,9 @@ You justify both choices in `methodology.md`.
 ## Overview
 **Purpose:** The purpose of this prompt is to make an input about a complex concept that is difficult to understand and receive an output from the LLM that explains the concept in a personalized and coherent manner.
 
-**Structure:** [Name your framework, your modified framework, or "custom
-structure," then list the parts it breaks into, for example: Context, Task,
-Constraints, Format.]
+**Structure:** R-T-F (Role, Task, Format)
 
-**Technique:** [Zero-shot, few-shot, chain-of-thought, or zero-shot chain-of-
-thought.]
+**Technique:** Zero-shot chain-of-thought
 
 ---
 ## The Prompt
@@ -35,11 +32,13 @@ If your technique is few-shot, include your example(s) here; if it is chain-of-
 thought, include the instruction to reason step by step.
 **[PART LABEL 1]:**
 [The content for this part.]
+
 **[PART LABEL 2]:**
 [The content for this part.]
+
 **[PART LABEL 3]:**
 [The content for this part.]
-[Add or remove parts so the structure matches your design.]
+
 ---
 ## Context and Inputs
 List the information the user has to supply, written as placeholders:
