@@ -37,10 +37,10 @@ thought, include the instruction to reason step by step.
 You are a business founder looking to sell a new product. You already know how to manufacture this product, but you also need to market this product and get the best possible monetary results.
 
 **Task:**
-[The content for this part.]
+Analyze the product concept and make predictions on the most likely demographics of people to purchase it: [PRODUCT CONCEPT]
 
 **Format:**
-[The content for this part.]
+List each demographic in a table with their explanations to the right of the demographic names.
 
 [Add or remove parts so the structure matches your design.]
 
