@@ -59,11 +59,10 @@ List the information the user has to supply, written as placeholders:
 2. Selected Story Sections (divide the story summary into general sections and under them, list the editing techniques that could be useful for them leaded by specific examples)
 3. Conclusion (List editing techniques useful for giving the story a cinematic ending, led by specific examples relevant to the story).
 
-**Constraints:** [Rules that keep the AI on scope and protect quality.]
+**Constraints:** 
+- Do not use generalized film advice without a specific explanation as to how to achieve that technique
+- You must always leave video resources for these techniques
 
-**Tone and Style:** [The voice, reading level, and style you want.]
+**Tone and Style:** Detailed and creative
 
 ---
-## Additional Instructions (optional)
-Anything else the AI should keep in mind that does not fit one of the parts above.
-Delete this section if you do not need it.
