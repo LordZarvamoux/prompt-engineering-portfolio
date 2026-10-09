@@ -49,14 +49,10 @@ List the information the user has to supply, written as placeholders:
 ---
 ## Output Requirements
 
-**Format:** [How the answer should be structured, for example length, headings,
-bullets, or a table.]
+**Format:** List each demographic in a table with their explanations to the right of the demographic names.
 
-**Constraints:** [Rules that keep the AI on scope and protect quality.]
+**Constraints:** Refrain from broad generalizations and provide specific variables.
 
-**Tone and Style:** [The voice, reading level, and style you want.]
+**Tone and Style:** Concise, and without overly complicated marketing jargon. This output should be easy to for the prompter to understand while avoiding colloquial rhetoric and maintaining professional dialogue.
 
 ---
-## Additional Instructions (optional)
-Anything else the AI should keep in mind that does not fit one of the parts above.
-Delete this section if you do not need it.
