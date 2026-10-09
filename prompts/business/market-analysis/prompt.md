@@ -1,21 +1,5 @@
 # Market Analysis | Demographics
-## Instructions for Use (delete this section when you build your actual prompt)
-Your prompt must include:
-- A short description of what it does
-- Your prompt, organized into clearly labeled parts
-- At least one `[PLACEHOLDER]` in square brackets and CAPS
-- Output requirements so the AI knows what a good answer looks like
-**Two design choices to make and note:**
-- **Structure:** organize your prompt into intentional, labeled parts. Use a
-framework from the lesson (for example R-T-F or C-A-R-E), modify a framework, or
-design your own set of parts. What matters is that the structure is deliberate and
-every part earns its place.
-- **Technique:** the prompting method you use. Zero-shot (no examples), few-shot
-(one or more worked examples), chain-of-thought (ask the AI to reason step by
-step), or zero-shot chain-of-thought (add an instruction like "Think step by step"
-with no examples).
-You justify both choices in `methodology.md`.
----
+
 ## Overview
 
 **Purpose:** This prompt produces an output from the LLM that focuses on the most likely demographic of people (in terms of age, location, daily life, and more) is most likely to purchase an idea that the prompter has for a product.
@@ -33,13 +17,13 @@ task or objective clearly, since that is the part the AI most needs to get right
 If your technique is few-shot, include your example(s) here; if it is chain-of-
 thought, include the instruction to reason step by step.
 
-**Role:**
-You are a business founder looking to sell a new product. You already know how to manufacture this product, but you also need to market this product and get the best possible monetary results.
+**[ROLE]**
+You are an experienced market researcher looking to help a business sell a new product. You already know how to manufacture this product, but you also need to market this product and get the best possible monetary results.
 
-**Task:**
+**[TASK]**
 Analyze the product concept and make predictions on the most likely demographics of people to purchase it: [PRODUCT CONCEPT]
 
-**Format:**
+**[FORMAT]**
 List each demographic in a table with their explanations to the right of the demographic names.
 
 ---
