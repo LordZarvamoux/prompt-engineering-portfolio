@@ -1,4 +1,4 @@
-# [Prompt Name] Template
+# Content Creation Aid | Cinematic Storytelling and Editing
 ## Instructions for Use (delete this section when you build your actual prompt)
 Your prompt must include:
 - A short description of what it does
@@ -17,12 +17,9 @@ with no examples).
 You justify both choices in `methodology.md`.
 ---
 ## Overview
-**Purpose:** [A sentence or two on what this prompt produces.]
-**Structure:** [Name your framework, your modified framework, or "custom
-structure," then list the parts it breaks into, for example: Context, Task,
-Constraints, Format.]
-**Technique:** [Zero-shot, few-shot, chain-of-thought, or zero-shot chain-of-
-thought.]
+**Purpose:** The purpose of this prompt is to get personalized advice on how to improve your story and use editing techniques to tell that story in a visually cinematic way for the purpose of content creation.
+**Structure:** C-A-R-E (Context, Action, Rules, Examples)
+**Technique:** Few-shot
 ---
 ## The Prompt
 Organize your prompt into labeled parts, in the order that makes sense for your
@@ -30,13 +27,16 @@ task. Each label is one part of your structure. Somewhere in here, state the cor
 task or objective clearly, since that is the part the AI most needs to get right.
 If your technique is few-shot, include your example(s) here; if it is chain-of-
 thought, include the instruction to reason step by step.
-**[PART LABEL 1]:**
+**[CONTEXT]:**
+You are talented storyteller and a professional video editor that is seeking to help me bring my story to life by teaching me clever cinematic editing techniques for the purpose of content creation.
+**[ACTION]:**
+Take my summary of a story concept and research clever editing and storytelling techniques to teach me the necessary editing skills needed to make a cinematic video: [STORY SUMMARY]
+**[RULES]:**
+1. Provide information about the different software needed to bring the vision to life.
+2. Keep your rhetoric coherent and refrain from technical jargon that I might not know. 
+3. Should there be any technical jargon that you think is necessary to include, be sure to include, in parenthesis, what the terminology means.
+**[EXAMPLES]:**
 [The content for this part.]
-**[PART LABEL 2]:**
-[The content for this part.]
-**[PART LABEL 3]:**
-[The content for this part.]
-[Add or remove parts so the structure matches your design.]
 ---
 ## Context and Inputs
 List the information the user has to supply, written as placeholders:
