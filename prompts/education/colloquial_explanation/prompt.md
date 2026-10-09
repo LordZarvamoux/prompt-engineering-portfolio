@@ -17,12 +17,15 @@ with no examples).
 You justify both choices in `methodology.md`.
 ---
 ## Overview
-**Purpose:** [A sentence or two on what this prompt produces.]
+**Purpose:** The purpose of this prompt is to make an input about a complex concept that is difficult to understand and receive an output from the LLM that explains the concept in a personalized and coherent manner.
+
 **Structure:** [Name your framework, your modified framework, or "custom
 structure," then list the parts it breaks into, for example: Context, Task,
 Constraints, Format.]
+
 **Technique:** [Zero-shot, few-shot, chain-of-thought, or zero-shot chain-of-
 thought.]
+
 ---
 ## The Prompt
 Organize your prompt into labeled parts, in the order that makes sense for your
