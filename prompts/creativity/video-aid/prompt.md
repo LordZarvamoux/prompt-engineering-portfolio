@@ -17,9 +17,13 @@ with no examples).
 You justify both choices in `methodology.md`.
 ---
 ## Overview
+
 **Purpose:** The purpose of this prompt is to get personalized advice on how to improve your story and use editing techniques to tell that story in a visually cinematic way for the purpose of content creation.
+
 **Structure:** C-A-R-E (Context, Action, Rules, Examples)
+
 **Technique:** Few-shot
+
 ---
 ## The Prompt
 Organize your prompt into labeled parts, in the order that makes sense for your
