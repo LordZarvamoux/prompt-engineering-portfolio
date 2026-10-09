@@ -35,11 +35,11 @@ Take my summary of a story concept and research clever editing and storytelling 
 **Format:** 
 1. Hook (Begin with how to lead into the story with editing techniques made for this purpose)
 2. Selected Story Sections (divide the story summary into general sections and under them, list the editing techniques that could be useful for them leaded by specific examples)
-3. Conclusion (List editing techniques useful for giving the story a cinematic ending, led by specific examples relevant to the story).
+3. Conclusion (List editing techniques useful for giving the story a cinematic ending, led by specific examples relevant to the story)
 
 **Constraints:** 
-- Do not use generalized film advice without a specific explanation as to how to achieve that technique
-- You must always leave video resources for these techniques
+- Do not use generalized film advice without a specific explanation as to how to achieve that technique.
+- Suggest specific YouTube resources relevant to these editing techniques.
 
 **Tone and Style:** Detailed and creative
 
