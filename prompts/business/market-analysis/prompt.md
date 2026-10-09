@@ -55,6 +55,7 @@ bullets, or a table.]
 **Constraints:** [Rules that keep the AI on scope and protect quality.]
 
 **Tone and Style:** [The voice, reading level, and style you want.]
+
 ---
 ## Additional Instructions (optional)
 Anything else the AI should keep in mind that does not fit one of the parts above.
