@@ -42,8 +42,6 @@ Analyze the product concept and make predictions on the most likely demographics
 **Format:**
 List each demographic in a table with their explanations to the right of the demographic names.
 
-[Add or remove parts so the structure matches your design.]
-
 ---
 ## Context and Inputs
 List the information the user has to supply, written as placeholders:
