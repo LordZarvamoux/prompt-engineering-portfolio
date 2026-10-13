@@ -1,6 +1,8 @@
 # Design Methodology: Paraphrasing Obscure Rhetoric | Making Jargon Coherent
 ## Design Goal
+
 The purpose of this prompt is for the user to break down complex concepts that they struggle to understand in a way that they can process what it really means.
+
 ---
 ## Design Approach: Structure and Technique
 Explain the two design choices behind your prompt and why they fit the task.
