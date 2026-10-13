@@ -30,4 +30,5 @@ If this concept is tied with any jargon that you know that an average person wil
 **Constraints:** Follow a step-by-step explanation using scenarios, and refrain from giving a general summary as an introduction. Lead directly into the build-up.
 
 **Tone and Style:** Somewhat colloquial while prioritizing rhetoric that will help the prompter to properly learn the concept.
+
 ---
