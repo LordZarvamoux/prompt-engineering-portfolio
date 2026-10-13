@@ -10,8 +10,7 @@ The purpose of this prompt is for the user to break down complex concepts that t
 - This structure fits this task because it provides a specific learning format by which the prompter will understand the complex concept better.
 - Another reason this structure fits this task is because the role aspect gives the LLM context as to how to present itself to the prompter in order to increase chances of seamless learning.
 **Technique I used:** Chain-of-thought
-**Why this technique fits my task:**
-Chain-of-thought was used because learning requires a step-by-step process to build understanding. 
+**Why this technique fits my task:** Chain-of-thought was used because learning requires a step-by-step process to build understanding. 
 ---
 ## Part-by-Part Justification
 | Part | What I put here | Why the prompt needs it |
