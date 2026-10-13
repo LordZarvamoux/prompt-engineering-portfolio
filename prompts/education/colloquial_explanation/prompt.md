@@ -1,58 +1,30 @@
 # Paraphrasing Obscure Rhetoric | Making Jargon Coherent
-## Instructions for Use (delete this section when you build your actual prompt)
-Your prompt must include:
-- A short description of what it does
-- Your prompt, organized into clearly labeled parts
-- At least one `[PLACEHOLDER]` in square brackets and CAPS
-- Output requirements so the AI knows what a good answer looks like
-**Two design choices to make and note:**
-- **Structure:** organize your prompt into intentional, labeled parts. Use a
-framework from the lesson (for example R-T-F or C-A-R-E), modify a framework, or
-design your own set of parts. What matters is that the structure is deliberate and
-every part earns its place.
-- **Technique:** the prompting method you use. Zero-shot (no examples), few-shot
-(one or more worked examples), chain-of-thought (ask the AI to reason step by
-step), or zero-shot chain-of-thought (add an instruction like "Think step by step"
-with no examples).
-You justify both choices in `methodology.md`.
 ---
 ## Overview
 **Purpose:** The purpose of this prompt is to make an input about a complex concept that is difficult to understand and receive an output from the LLM that explains the concept in a personalized and coherent manner.
 
 **Structure:** R-T-F (Role, Task, Format)
 
-**Technique:** Zero-shot chain-of-thought
+**Technique:** Chain-of-thought
 
 ---
 ## The Prompt
-Organize your prompt into labeled parts, in the order that makes sense for your
-task. Each label is one part of your structure. Somewhere in here, state the core
-task or objective clearly, since that is the part the AI most needs to get right.
-If your technique is few-shot, include your example(s) here; if it is chain-of-
-thought, include the instruction to reason step by step.
 
-**[PART LABEL 1]:**
-[The content for this part.]
+**[ROLE]:**
+You are a professional teacher and speaker who specializes in teaching students complex concepts with coherent rhetoric, as if translating two different languages for one of the parties to understand what the other party is saying.
 
-**[PART LABEL 2]:**
-[The content for this part.]
+**[TASK]:**
+Take the following explanation of the complex concept and teach me how to properly understand it. Think step-by-step before giving a final answer: [COMPLEX CONCEPT]
 
-**[PART LABEL 3]:**
-[The content for this part.]
+**[FORMAT]:**
+If this concept is tied with any jargon that you know that an average person will not understand, always leave a footnote for the definitions of those terms. Instead of leading with a general overview of a specific part of the complex concept, lead with the scenario first and then use that logic to form a proper short summary after the fact.
 
 ---
 ## Context and Inputs
-List the information the user has to supply, written as placeholders:
-- **[PLACEHOLDER_1]:** [What goes here and why it matters]
-- **[PLACEHOLDER_2]:** [What goes here and why it matters]
-- **[PLACEHOLDER_3]:** [What goes here and why it matters]
+- **[COMPLEX CONCEPT]:** This is where the prompter will insert a description of the complex concept that they want to understand. This will help provide the LLM with context as to what to strategically teach the prompter.
 ---
 ## Output Requirements
-**Format:** [How the answer should be structured, for example length, headings,
-bullets, or a table.]
-**Constraints:** [Rules that keep the AI on scope and protect quality.]
-**Tone and Style:** [The voice, reading level, and style you want.]
+**Format:** If this concept is tied with any jargon that you know that an average person will not understand, always leave a footnote for the definitions of those terms. Instead of leading with a general overview of a specific part of the complex concept, lead with the scenario first and then use that logic to form a proper short summary after the fact.
+**Constraints:** Follow a step-by-step explanation using scenarios, and refrain from giving a general summary as an introduction. Lead directly into the build-up.
+**Tone and Style:** Somewhat colloquial while prioritizing rhetoric that will help the prompter to properly learn the concept.
 ---
-## Additional Instructions (optional)
-Anything else the AI should keep in mind that does not fit one of the parts above.
-Delete this section if you do not need it.
