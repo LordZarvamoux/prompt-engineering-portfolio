@@ -39,8 +39,12 @@ no deliberate structure or technique, and refine it based on what you see.
 **What testing showed:** Unlike the baseline prompt, the structured prompt provided a specific and structured task for what the LLM was to teach about the complex concept, as well as a format on how to provide this information to benefit the prompter.
 
 **What I learned:** Prompt design is profoundly essential to the kind of output that an LLM will produce, and how effective that output will be to the prompter. A poorly written prompt can lead to many unnecessary follow-up prompts on clarification and correction.
+
 ---
 ## Strengths and Limitations
+
 **Works well when:** The LLM is told how to execute a task and what format to represent the output’s information in.
+
 **Struggles when:** The prompt has little to no structure for the LLM to build, leading to confusion and many unnecessary follow up prompts from the user.
+
 **Would improve next:** I might use a different structure in order to have a more detailed and better designed output from the LLM.
