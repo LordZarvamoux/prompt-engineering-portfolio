@@ -41,8 +41,11 @@ no deliberate structure or technique, and refine it based on what you see.
 |---------|----------------|--------------|
 | Naive baseline | 25/100 | The core request was clear, but there were no boundaries provided to the LLM. There was no structure, and the prompt only consisted of one sentence with no background information. The structure of the output was left up entirely to the AI model. |
 | Structured Prompt | 100/100 | The instructional approach is very specific by providing structure with a step-by-step process and a specified output outcome from the LLM.|
+
 **What testing showed:** Unlike the baseline prompt, the structured prompt provided a specific and structured task for what the LLM was to teach about the complex concept, as well as a format on how to provide this information to benefit the prompter.
+
 **What I learned:** Prompt design is profoundly essential to the kind of output that an LLM will produce, and how effective that output will be to the prompter. A poorly written prompt can lead to many unnecessary follow-up prompts on clarification and correction.
+
 ---
 ## Strengths and Limitations
 
