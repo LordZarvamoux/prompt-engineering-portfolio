@@ -19,9 +19,7 @@ The few-shot example was used because it uses a sufficient amount of examples fo
 
 ---
 ## Part-by-Part Justification
-Justify each part of your prompt: what it is, what goes in it, and why the prompt
-needs it. If your prompt is technique-driven and short (for example zero-shot
-chain-of-thought), justify the technique and the few parts you do have instead.
+
 | Part | What I put here | Why the prompt needs it |
 |------|-----------------|-------------------------|
 | [CONTEXT] | “You are a talented storyteller and a professional video editor that is seeking to help me bring my story to life by teaching me clever cinematic editing techniques for the purpose of content creation.” | Giving the LLM the perspective of someone who is very skilled in portraying complex information in simple ways could give it a better understanding of what it needs to do. |
@@ -30,8 +28,7 @@ chain-of-thought), justify the technique and the few parts you do have instead.
 | [EXAMPLES] | **Example of what is preferable:** "Even though the app's modern system successfully started passing data along, the main program ran out of memory and crashed. This happened because a background process got stuck processing a massive pile of incoming text data without clearing out the old temporary memory it was using." **Example of what is detestable:** "Although the synergistic cloud-native microservices architecture successfully bootstrapped the asynchronous event-driven pipeline, the downstream garbage-collected runtime experienced a catastrophic heap allocation bottleneck because the recursive JSON deserialization thread failed to properly dereference the mutable pointer." | The example gives the LLM a clear expectation for what its output should be, making the response more aligned with the prompter’s desires. |
 ---
 ## Testing and Iteration
-Test your prompt against a naive baseline, a plain version of the same request with
-no deliberate structure or technique, and refine it based on what you see.
+
 **Baseline I compared against:**
 ```
 Please tell me how to edit a video for a story like this: [STORY CONCEPT]
@@ -40,8 +37,11 @@ Please tell me how to edit a video for a story like this: [STORY CONCEPT]
 |---------|----------------|--------------|
 | Naive baseline | 15/100 | The core idea is clear, but lacks any clarification of specific goals. There is absolutely no format or structure of any kind. Leaves the result of the output completely to the LLM. |
 | Designed prompt | 86/100 | The goal is clear, but the format around a specific editing software could be improved. Sections are labeled, but the Rules section overlaps with constraints. It establishes a clear agenda. |
+
 **What testing showed:** This testing showed the difference between a one-sentence prompt with no structure context and a well-designed and properly thought-out prompt that tells the LLM precisely how to format its output. As a result, the prompter would have a better understanding of what to do as it pertains to editing around their story.
+
 **What I learned:** From this, one can infer that prompt design is crucial for a seamless learning experience.
+
 ---
 ## Strengths and Limitations
 
