@@ -1,1 +1,5 @@
+=== PROMPT USED ===
+[Paste the prompt here]
 
+=== RAW OUTPUT ===
+[Paste the model's exact response here]
