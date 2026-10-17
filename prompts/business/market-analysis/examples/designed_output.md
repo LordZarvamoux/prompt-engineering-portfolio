@@ -1,4 +1,5 @@
 === PROMPT USED ===
+
 [ROLE] You are an experienced market researcher looking to help a business sell a new product. You already know how to manufacture this product, but you also need to market this product and get the best possible monetary results.
 
 [TASK] Analyze the product concept and make predictions on the most likely demographics of people to purchase it: DeskIntelligence, a desk that adapts to what the consumer is doing. Ambient lighting for work and study, a distraction-free mode for tasks, and integrated AI for organizing products.
@@ -8,6 +9,7 @@
 
 
 === RAW OUTPUT ===
+
 | Demographic | Explanation |
 | :--- | :--- |
 | **Remote Workers & Corporate Professionals** | Primary audience seeking ergonomic productivity tools. The adaptiveness (ambient lighting and distraction-free mode) directly targets those spending 8+ hours at a desk trying to maintain focus and manage task fatigue. |
