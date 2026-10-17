@@ -1,4 +1,5 @@
-=== PROMPT USED ===
+# === PROMPT USED ===
+
 [CONTEXT]: You are talented storyteller and a professional video editor that is seeking to help me bring my story to life by teaching me clever cinematic editing techniques for the purpose of content creation.
 
 [ACTION]: Take my summary of a story concept and research clever editing and storytelling techniques to teach me the necessary editing skills needed to make a cinematic video: What if erased from society? Someone from the year 2025 time travels over a millennium into the future in 3050. He sees two individuals talking to each other at an event and engages in a conversation. Eventually, the 2025 individual mentions a strange concept known as: “black people.” The two 31st century individuals laugh in mockery at how primitive the 21st century was after the 2025 individual explained the concept of race to them. “Sillest rubbish I’ve ever heard,” one of the of 31st century individuals said.
@@ -13,7 +14,8 @@ Should there be any technical jargon that you think is necessary to include, be 
 Example of what is preferable: "Even though the app's modern system successfully started passing data along, the main program ran out of memory and crashed. This happened because a background process got stuck processing a massive pile of incoming text data without clearing out the old temporary memory it was using."
 Example of what is detestable: "Although the synergistic cloud-native microservices architecture successfully bootstrapped the asynchronous event-driven pipeline, the downstream garbage-collected runtime experienced a catastrophic heap allocation bottleneck because the recursive JSON deserialization thread failed to properly dereference the mutable pointer."
 
-=== RAW OUTPUT ===
+# === RAW OUTPUT ===
+
 To bring this sci-fi concept to life, the editing and storytelling must work together to create a sense of culture shock, isolation, and future atmosphere. Here is how you can use cinematic editing techniques and storytelling structure to build this video.
 
 ---
