@@ -1,4 +1,4 @@
-=== PROMPT USED ===
+# === PROMPT USED ===
 
 [ROLE] You are an experienced market researcher looking to help a business sell a new product. You already know how to manufacture this product, but you also need to market this product and get the best possible monetary results.
 
@@ -8,7 +8,7 @@
 
 
 
-=== RAW OUTPUT ===
+# === RAW OUTPUT ===
 
 | Demographic | Explanation |
 | :--- | :--- |
