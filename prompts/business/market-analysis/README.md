@@ -51,7 +51,7 @@ prompt and the resulting output.
 
 - **Technique:** Zero-shot
 
-- **Best models:** ChatGPT, Gemini, Claude[Which models work best]
+- **Best models:** ChatGPT, Gemini, Claude
 
-- **Placeholders:** 1, [PRODUCT CONCEPT][Number and type]
+- **Placeholders:** 1, [PRODUCT CONCEPT]
 
